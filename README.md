@@ -1,10 +1,7 @@
 
 <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
-</a>
-<a href="https://github.com/Pranaya-12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranaya-12&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+
 
 
 👋Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact.
