@@ -1,25 +1,25 @@
 - 👋Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact.
 - 
 - 🌱  Current Learning Focus  
-      I'm actively enhancing my knowledge of Data Science** and Machine Learning with a focus on:  
+   I'm actively enhancing my knowledge of Data Science** and Machine Learning with a focus on:  
 
 -   Core Competencies:  
   - Data preprocessing, feature engineering, and exploratory data analysis (EDA).  
   - Machine learning model development, tuning, and evaluation.  
   - Understanding the theoretical foundations of algorithms like SVMs, Random Forests, and Deep Neural Networks.  
 
--   Advanced Proficiencies:  
+-   **Advanced Proficiencies**:  
   - Implementing scalable pipelines for Big Data using tools like `Spark` and `Hadoop`.  
   - Real-time model deployment with Docker, Kubernetes, and Flask API.  
   - Exploring cutting-edge topics like Generative AI (GANs, VAEs) and Natural Language Processing (NLP).
 
--   Alignment with Latest Trends:  
+-  ** Alignment with Latest Trends**:  
   - Leveraging Transformer-based architectures (e.g., BERT, GPT) for text analysis.  
   - Mastering AutoML frameworks to expedite model building.  
   - Integrating AI/ML with IoT for smart and adaptive systems.
-  -
-  -
-    🚀 Featured Projects  
+
+  
+ 🚀 **Featured Projects  **
 
 ### 1. [Emotion Music Recommendation System](https://github.com/Pranaya-12/Emotion-Music-Recommendation) 🎶  
 An AI-driven application to enhance user experiences by recommending music based on real-time emotional analysis.  
@@ -54,8 +54,8 @@ Optimizing inventory management with a robust e-procurement system.
 - **Tech Stack**:  
   `NetBeans IDE`, `Java`, `MySQL`.  
 
--
-  💞️ I’m looking to collaborate on ...
+
+  💞️** I’m looking to collaborate on ...**
   Real-world Data Science and Machine Learning projects that:  
   Enhance Human Ease: Projects focused on creating impactful AI/ML solutions like recommendation systems, predictive analytics, or automation tools that address everyday challenges.  
 - Open Source Contributions: Working with like-minded individuals to contribute to open-source repositories, especially those involving data visualization, natural language processing, and AI-driven IoT systems.  
