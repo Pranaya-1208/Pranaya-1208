@@ -1,27 +1,10 @@
 
 <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
-version: 1.0
-title: Skills & Expertise
-labels:
-  - Programming & Tools:
-      - Python
-      - SQL
-      - Big Data Tools (Hadoop, Spark)
-      - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn
-  - Database & Data Structures:
-      - SQL Databases (MySQL, PostgreSQL)
-      - NoSQL Databases (MongoDB, Cassandra)
-      - Data Structures (Arrays, Linked Lists, Trees, Graphs, Hashmaps)
-  - Machine Learning & Modeling:
-      - Supervised Learning (Regression, Classification)
-      - Unsupervised Learning (Clustering, Dimensionality Reduction)
-      - Recommendation Systems (Collaborative Filtering, Content-Based Filtering, Hybrid Models)
-  - Data Science Techniques:
-      - Exploratory Data Analysis (EDA)
-      - Feature Engineering
-      - Model Evaluation & Validation (Cross-validation, ROC, AUC, etc.)
-
+![Programming & Tools](https://img.shields.io/badge/Programming%20%26%20Tools-Python%2C%20SQL%2C%20Big%20Data%20Tools%20%28Hadoop%2C%20Spark%29%2C%20Pandas%2C%20NumPy%2C%20Scikit-learn%2C%20TensorFlow%2C%20PyTorch-blue)
+![Database & Data Structures](https://img.shields.io/badge/Database%20%26%20Data%20Structures-SQL%20Databases%20%28MySQL%2C%20PostgreSQL%29%2C%20NoSQL%20Databases%20%28MongoDB%2C%20Cassandra%29%2C%20Data%20Structures%20%28Arrays%2C%20Linked%20Lists%2C%20Trees%2C%20Graphs%2C%20Hashmaps%29-lightgrey)
+![Machine Learning & Modeling](https://img.shields.io/badge/Machine%20Learning%20%26%20Modeling-Supervised%20Learning%20%28Regression%2C%20Classification%29%2C%20Unsupervised%20Learning%2C%20Recommendation%20Systems-orange)
+![Data Science Techniques](https://img.shields.io/badge/Data%20Science%20Techniques-EDA%2C%20Feature%20Engineering%2C%20Model%20Evaluation%2C%20Cross-validation%2C%20ROC%2C%20AUC-yellow)
 
 
 👋Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact.
