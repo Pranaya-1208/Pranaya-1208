@@ -1,4 +1,10 @@
-- 👋Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact.
+
+<a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
+</a>
+
+
+👋Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact.
 - 
 - 🌱  Current Learning Focus  
    I'm actively enhancing my knowledge of Data Science** and Machine Learning with a focus on:  
