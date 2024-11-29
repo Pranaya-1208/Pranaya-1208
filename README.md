@@ -84,12 +84,14 @@ I believe in leveraging diverse perspectives and skills to drive technological a
 My vision is to create impactful AI/ML applications and contribute to open-source projects that enhance **human ease** and **efficiency**. I aim to bridge the gap between technology and real-world applications by continuously innovating and learning.
 -
 ## 🤝 Let's Connect!  
-
-- **GitHub**: <a href="https://github.com/Pranaya-1208" target="_blank">
+<a href="https://github.com/Pranaya-1208" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" alt="GitHub Profile" style="width:40px; height:40px;">
 </a>
-
-- **LinkedIn**: <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
+<a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
+    <a href="mailto:pranayadeshmukh1020@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email Profile" style="width:40px; height:40px;">
+</a>
+
 
 Feel free to explore my projects and collaborate on exciting ideas! 🚀  
