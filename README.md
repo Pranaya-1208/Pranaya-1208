@@ -92,7 +92,9 @@ My vision is to create impactful AI/ML applications and contribute to open-sourc
 <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
 
- ![Email](https://img.shields.io/badge/Email-pranayadeshmukh1020%40gmail.com-blue?logo=gmail)
+<a href="mailto:pranayadeshmukh1020@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" style="width:40px; height:40px;">
+</a>
 
 
 Feel free to explore my projects and collaborate on exciting ideas! 🚀  
