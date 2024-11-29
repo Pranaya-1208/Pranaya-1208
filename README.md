@@ -1,6 +1,19 @@
 
 <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
+# My Skills & Expertise
+
+## Programming  
+![Programming](https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue?style=for-the-badge)
+
+## Frameworks & Tools  
+![Frameworks & Tools](https://img.shields.io/badge/Frameworks%20%26%20Tools-TensorFlow%2C%20Keras%2C%20Flask%2C%20Node.js-green?style=for-the-badge)
+
+## Database Management  
+![Database Management](https://img.shields.io/badge/Database%20Management-MySQL%2C%20MongoDB-yellow?style=for-the-badge)
+
+## Technologies  
+![Technologies](https://img.shields.io/badge/Other%20Technologies-IoT%2C%20Cloud%20Computing%20%28AWS%2C%20Google%20Cloud%29-purple?style=for-the-badge)
 
 
 
