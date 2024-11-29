@@ -18,7 +18,8 @@
   - Mastering AutoML frameworks to expedite model building.  
   - Integrating AI/ML with IoT for smart and adaptive systems.
   -
-  - 🚀 Featured Projects  
+  -
+    🚀 Featured Projects  
 
 ### 1. [Emotion Music Recommendation System](https://github.com/Pranaya-12/Emotion-Music-Recommendation) 🎶  
 An AI-driven application to enhance user experiences by recommending music based on real-time emotional analysis.  
@@ -54,7 +55,7 @@ Optimizing inventory management with a robust e-procurement system.
   `NetBeans IDE`, `Java`, `MySQL`.  
 
 -
-- 💞️ I’m looking to collaborate on ...
+  💞️ I’m looking to collaborate on ...
   Real-world Data Science and Machine Learning projects that:  
   Enhance Human Ease: Projects focused on creating impactful AI/ML solutions like recommendation systems, predictive analytics, or automation tools that address everyday challenges.  
 - Open Source Contributions: Working with like-minded individuals to contribute to open-source repositories, especially those involving data visualization, natural language processing, and AI-driven IoT systems.  
