@@ -69,14 +69,16 @@ Optimizing inventory management with a robust e-procurement system.
 - **Tech Stack**:  
   `NetBeans IDE`, `Java`, `MySQL`.  
 
+ 
+ 
+  💞️I’m looking to collaborate on ..
 
-  💞️** I’m looking to collaborate on ...**
   Real-world Data Science and Machine Learning projects that:  
   Enhance Human Ease: Projects focused on creating impactful AI/ML solutions like recommendation systems, predictive analytics, or automation tools that address everyday challenges.  
-- Open Source Contributions: Working with like-minded individuals to contribute to open-source repositories, especially those involving data visualization, natural language processing, and AI-driven IoT systems.  
+  Open Source Contributions: Working with like-minded individuals to contribute to open-source repositories, especially those involving data visualization, natural language processing, and AI-driven IoT systems.  
 - Advancing Research: Initiatives involving Generative AI, Transformer models (e.g., BERT, GPT), or Computer Vision for innovative applications in healthcare, education, or environmental monitoring.  
 - Big Data Pipeline: Building and optimizing scalable machine learning workflows using tools like `Hadoop`, `Spark`, and cloud services such as `AWS` and `Google Cloud`.  
-- Real-Time Deployments: Collaborative efforts to deploy ML models using **Flask**, **Docker**, and **Kubernetes** for enterprise-grade applications.  
+- Real-Time Deployments: Collaborative efforts to deploy ML models using Flask, Docker, and Kubernetes for enterprise-grade applications.  
 
 I believe in leveraging diverse perspectives and skills to drive technological advancements and make a tangible difference. Let's build something impactful together! 🚀
 
