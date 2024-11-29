@@ -1,7 +1,8 @@
 
 <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" style="width:40px; height:40px;">
-**My Skills & Expertise**
+
+My Skills & Expertise
 
 ## Programming  
 ![Programming](https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20JavaScript-blue?style=for-the-badge)
