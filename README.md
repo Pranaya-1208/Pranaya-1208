@@ -98,69 +98,9 @@ My vision is to create impactful AI/ML applications and contribute to open-sourc
 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Logo with Tooltip</title>
-    <style>
-        /* Styling for LinkedIn logo */
-        .linkedin-logo img {
-            width: 40px;
-            height: 40px;
-            border-radius: 5px;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
-            cursor: pointer;
-        }
-
-        .linkedin-logo img:hover {
-            transform: scale(1.1);
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-
-        /* Tooltip styling */
-        .tooltip {
-            position: absolute;
-            padding: 5px 10px;
-            background-color: #2bbc8a;
-            color: white;
-            border-radius: 4px;
-            font-size: 12px;
-            display: none;
-            z-index: 10;
-            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
-        }
-    </style>
-</head>
-<body>
-    <!-- LinkedIn logo with link -->
-    <a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank" class="linkedin-logo">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile">
-    </a>
-    <div id="tooltip" class="tooltip">Visit my LinkedIn Profile</div>
-
-    <script>
-        // JavaScript for dynamic tooltip
-        const linkedinLogo = document.querySelector('.linkedin-logo');
-        const tooltip = document.getElementById('tooltip');
-
-        // Show tooltip on hover
-        linkedinLogo.addEventListener('mouseover', (e) => {
-            const rect = linkedinLogo.getBoundingClientRect();
-            tooltip.style.left = `${rect.left + window.pageXOffset}px`;
-            tooltip.style.top = `${rect.top + window.pageYOffset - 30}px`;
-            tooltip.style.display = 'block';
-        });
-
-        // Hide tooltip on mouseout
-        linkedinLogo.addEventListener('mouseout', () => {
-            tooltip.style.display = 'none';
-        });
-    </script>
-</body>
-</html>
+<a href="https://www.linkedin.com/in/pranaya-deshmukh/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px;">
+</a>
 
 
 <a href="mailto:pranayadeshmukh1020@gmail.com">
