@@ -2,7 +2,7 @@
 👋 Hi! I'm Pranaya Deshmukh, a Data Scientist and Machine Learning enthusiast with a strong foundation in Full Stack Development. I specialize in designing and developing scalable software solutions, handling complex databases, and leveraging data for actionable insights. My goal is to explore deeper proficiencies in Python, Data Science, and Machine Learning, contributing to open-source projects that make a real impact
 - 
 - 🌱  Current Learning Focus  
-   I'm actively enhancing my knowledge of Data Science** and Machine Learning with a focus on:  
+   I'm actively enhancing my knowledge of Data Science and Machine Learning with a focus on:  
 
 -   Core Competencies:  
   - Data preprocessing, feature engineering, and exploratory data analysis (EDA).  
